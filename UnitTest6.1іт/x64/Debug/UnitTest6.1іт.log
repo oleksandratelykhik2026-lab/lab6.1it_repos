@@ -1,0 +1,4 @@
+﻿  UnitTest6.1іт.cpp
+     Creating library D:\Student\lab6.1\x64\Debug\UnitTest6.1іт.lib and object D:\Student\lab6.1\x64\Debug\UnitTest6.1іт.exp
+LINK : warning LNK4232: name UnitTest6.1іт.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest6.1іт.vcxproj -> D:\Student\lab6.1\x64\Debug\UnitTest6.1іт.dll
